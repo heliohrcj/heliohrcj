@@ -54,12 +54,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliohrcj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Hélio" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliohrcj&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Usadas" />
+  <img src="https://img.shields.io/badge/Commits%20(2026)-Ativo-success?style=for-the-badge&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositórios-19%20públicos/privados-blue?style=for-the-badge&logo=git" alt="Repositórios" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heliohrcj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
