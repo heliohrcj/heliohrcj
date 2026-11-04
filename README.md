@@ -56,10 +56,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliohrcj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Hélio's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliohrcj&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heliohrcj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Hélio" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliohrcj&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Usadas" />
+</div>
